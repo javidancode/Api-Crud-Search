@@ -1,0 +1,24 @@
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\Programming\Api\Api, OnionArchitecture\Api\Application\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\Programming\Api\Api, Crud, Search\Api, Crud, Search\Application\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
